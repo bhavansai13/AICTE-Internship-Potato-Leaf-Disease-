@@ -1,0 +1,8 @@
+streamlit for web interface and deployment
+tensorflow 
+CNN Model architecture
+tf-keras
+Dataset Categories are like:
+	Potato__Early_blight
+	Potato__Late_blight
+	Potato__Healthy
